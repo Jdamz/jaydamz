@@ -1,2 +1,0 @@
-# jaydamz
-html and css
